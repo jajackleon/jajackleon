@@ -9,6 +9,6 @@ I'm a third year Computer Science majoring in Software Engineering at Bina Nusan
 - ⚡ Fun fact: **I love doing any sports** 🏅
 
 ### Reach me on 🧑🏻‍💻
-[<img align="left" alt="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" title="LinkedIn: Jackie Leonardy"/>](https://www.linkedin.com/in/jackie-leonardy-531585170/)
-[<img align="left" alt="Gmail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&usqp=CAU" title="Email: jackiezheng2024@gmail.com"/>](mailto:jackiezheng2024@gmail.com)
-[<img align="left" alt="Gmail" width="26px" src="https://user-images.githubusercontent.com/64721275/106095068-b3bc8600-6165-11eb-863d-301a3b1ac0b6.png" title="Instagram: jajackleon"/>](https://www.instagram.com/jajackleon/)<br><br>
+[<img align="left" target=”_blank” alt="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" title="LinkedIn: Jackie Leonardy"/>](https://www.linkedin.com/in/jackie-leonardy-531585170/)
+[<img align="left" target=”_blank” alt="Gmail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&usqp=CAU" title="Email: jackiezheng2024@gmail.com"/>](mailto:jackiezheng2024@gmail.com)
+[<img align="left" target=”_blank” alt="Gmail" width="26px" src="https://user-images.githubusercontent.com/64721275/106095068-b3bc8600-6165-11eb-863d-301a3b1ac0b6.png" title="Instagram: jajackleon"/>](https://www.instagram.com/jajackleon/)<br><br>
